@@ -1,0 +1,5 @@
+formulario miRegistro {
+    nombre : texto = "Bellatrix Lestrange";
+    edad : numero = 43;
+    activo : booleano = verdadero;
+}

@@ -1,0 +1,5 @@
+formulario miRegistro {
+    nombre : texto = ""Elsa"";
+    edad : numero = z;
+    activo : booleano = true;
+}

@@ -1,0 +1,5 @@
+formulario miRegistro {
+    nombre : texto = "Draco Malfoy";
+    edad : numero = 19;
+    activo : booleano = falso;
+}
