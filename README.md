@@ -13,7 +13,7 @@ Para ejecutar este proyecto, es necesario tener instalado:
 Instalación y Configuración
 
 
-1. Clonar el repositorio: 
+1. Clonar el repositorio: https://github.com/liramilu-blip/53406
 2. Navegar a la carpeta del proyecto: Por ejemplo: "D:\ParcialSSL\TareaAnalizador"
 3. Abrir Visual Studio Code y crear un archivo "Formulario.g4" (cambiar el nombre del archivo al de su gramática)
 4. Editar la gramática ANTLR que le han asignado.  
