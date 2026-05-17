@@ -1,0 +1,5 @@
+formulario miRegistro {
+    nombre : texto = "Juan Sanchez";
+    edad : numero = 25;
+    activo : booleano = verdadero;
+}
